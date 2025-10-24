@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PC/Documents/Unreal Projects/PPG_B2_Rayendra/PPG_Hamdan_P8/Content/Pertemuan8/BPI_SaveData.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/PPG_B2_Rayendra/PPG_Hamdan_P8/Content/Pertemuan8/BP_SaveGame.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/PPG_B2_Rayendra/PPG_Hamdan_P8/Content/Pertemuan8/BP_GameInstance.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/PPG_B2_Rayendra/PPG_Hamdan_P8/Content/Pertemuan8/BP_Checkpoint.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/PPG_B2_Rayendra/PPG_Hamdan_P8/Content/Pertemuan8/S_PlayerState.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/PPG_B2_Rayendra/PPG_Hamdan_P8/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/PPG_B2_Rayendra/PPG_Hamdan_P8/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/NY/SJT5PKELEDHY7YN4E8F88R.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/PPG_B2_Rayendra/PPG_Hamdan_P8/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/4P/2I42XS7Z4HHS5P95ORKS9H.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/PPG_B2_Rayendra/PPG_Hamdan_P8/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/CD/WCNMXW8B4MEVR7K34JIBL9.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/PPG_B2_Rayendra/PPG_Hamdan_P8/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/ZU/SN9IUQCRKKI9C2MDMQ26QR.uasset"
+			]
+		}
+	]
+}
